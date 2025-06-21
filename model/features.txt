@@ -1,0 +1,20 @@
+Total Fwd Packets
+Total Backward Packets
+Total Length of Fwd Packets
+Total Length of Bwd Packets
+Fwd Packet Length Mean
+Bwd Packet Length Mean
+Bwd Packet Length Std
+Fwd Packet Length Std
+Flow Duration
+Flow IAT Mean
+Flow IAT Std
+Fwd IAT Mean
+Bwd IAT Mean
+Flow Bytes/s
+Flow Packets/s
+SYN Flag Count
+ACK Flag Count
+Packet Length Mean
+Average Packet Size
+Down/Up Ratio
